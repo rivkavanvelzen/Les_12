@@ -1,0 +1,89 @@
+
+header{
+  background-color: #FFDAB9;
+  color: #797D7F;
+  text-align: center;
+  width: 50%;
+  height: 60px;
+}
+:link{
+  color:black;
+}
+#a {
+  table-layout: fixed;
+  width: 50%;
+  text-align: center;
+  color: black;
+}
+img {
+  border-radius: 8px;
+  width: 120px;
+  vertical-align: middle;
+}
+thead tr th {
+  border-bottom: 2pt solid #797D7F;
+}
+#groentes {
+  background-color: #00DA5A;
+}
+#groentes-1 {
+  background-color: #008C3A;
+}
+#groentes-2 {
+  background-color: #36D900;
+}
+#groentes-3 {
+  background-color: #238C00;
+}
+#fruit {
+  background-color: #FF6666;
+}
+#fruit-1 {
+  background-color: #B34747;
+}
+#fruit-2 {
+  background-color: #FFB366;
+}
+#fruit-3 {
+  background-color: #B37D47;
+}
+#snacks {
+  background-color: #FFEB66;
+}
+#snacks-1 {
+  background-color: #FFFF99;
+}
+#snacks-2 {
+  background-color: #8FB6CC;
+}
+#snacks-3 {
+  background-color: #E6F6FF;
+}
+#dranken {
+  background-color: #8FB6CC;
+}
+#dranken-1 {
+  background-color: #66CCFF;
+}
+#dranken-2 {
+  background-color: #CCBA8F;
+}
+#dranken-3 {
+  background-color: #806E59;
+}
+footer{
+  background-color: #B39982;
+  height: 150px;
+  width: 50%;
+}
+#b{
+  width: 100%;
+  color: black;
+  text-align: left;
+  border-spacing: 10px;
+}
+hr{
+  width: 50%;
+  text-align: left;
+  margin-left: 0;
+}
